@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Welcome to Miep
 
 You can use the [editor on GitHub](https://github.com/jphellemons/Miep/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
